@@ -5,7 +5,6 @@ This repository contains an automation project using Playwright with C#. The pro
 ## Project Structure
 
 - **Program.cs**: Main entry point of the application where the automation scripts are executed.
-- **Tests**: Directory containing automated test scripts.
 - **Configuration**: Directory containing configuration files.
 
 ## Prerequisites
@@ -18,7 +17,7 @@ This repository contains an automation project using Playwright with C#. The pro
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/PlaywrightAutomation.git
+   git clone https://github.com/oluwabuddy/PlaywrightAutomation.git
    cd PlaywrightAutomation
 
 2. Install dependencies:
