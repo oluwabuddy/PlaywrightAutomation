@@ -37,9 +37,11 @@ This repository contains an automation project using Playwright with C#. The pro
    dotnet run
 
 ## Project Features
- Automated Navigation:  Navigate to specific web pages and perform actions like clicking buttons and filling out forms.
- Cross-browser Testing:  Test your web application across different browsers.
- Headless Mode:  Run tests in headless mode for faster execution.
+ -**Automated Navigation**:  Navigate to specific web pages and perform actions like clicking buttons and filling out forms.
+ 
+ -**Cross-browser Testing**:  Test your web application across different browsers.
+ 
+ -**Headless Mode**:  Run tests in headless mode for faster execution.
 
 ## Troubleshooting
  Ensure all dependencies are installed correctly.
