@@ -1,6 +1,6 @@
 # PlaywrightAutomation
 
-This repository contains an automation project using Playwright with C#. The project demonstrates navigating through a web application and performing various automated tasks.
+This repository contains an automation project using Playwright with C#. The project demonstrates navigating through [Miacademy](https://miacademy.co/#/) and performing various automated tasks.
 
 ## Project Structure
 
