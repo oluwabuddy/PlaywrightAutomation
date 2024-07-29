@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ql7sBfeN0RM=",
+  "success": true,
+  "projectFilePath": "/Users/oshikomaiyaoluwaseun/PlaywrightAutomation/PlaywrightAutomation.csproj",
+  "expectedPackageFiles": [
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/macross.json.extensions/2.2.0/macross.json.extensions.2.2.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/microsoft.playwright/1.18.0/microsoft.playwright.1.18.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/oshikomaiyaoluwaseun/.nuget/packages/system.text.json/6.0.1/system.text.json.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
